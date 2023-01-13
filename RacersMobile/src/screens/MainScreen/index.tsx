@@ -28,7 +28,6 @@ const MainScreen = () => {
     useLazyQuery<TRacersGqlData>(QUERY_RACERS);
 
   useEffect(() => {
-    console.log({data, loading});
     if (!loading && data?.racers) {
       const _racers: TRacer[] = data.racers.map(racer => ({
         ...racer,
