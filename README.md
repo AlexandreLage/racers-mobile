@@ -10,3 +10,8 @@ Then you can either open it on XCode (for iOS), Android Studio (for Android) or 
 `npm run android`
 
 `npm run ios`
+
+
+
+https://user-images.githubusercontent.com/20136835/212210823-285cf312-a83a-42b5-8e88-e52a3fb9c910.mp4
+
