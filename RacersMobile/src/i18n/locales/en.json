@@ -1,0 +1,27 @@
+{
+  "mainScreen": {
+    "buttons": {
+      "loadRacers": "Load racers",
+      "run": "Run",
+      "reset": "Reset"
+    },
+    "labels": {
+      "name": "Name:",
+      "weight": "Weight:",
+      "color": "Color:",
+      "length": "Length:",
+      "status": "Status:",
+      "winLikelihood": "Likelihood:"
+    },
+    "raceStatus": {
+      "not-yet-run": "Not yet run",
+      "in-progress": "In progress",
+      "all-calculated": "All calculated"
+    },
+    "racerStatus": {
+      "not-yet-run": "Not yet run",
+      "in-progress": "In progress",
+      "calculated": "Calculated"
+    }
+  }
+}
