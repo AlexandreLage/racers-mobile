@@ -84,6 +84,7 @@ const MainScreen = () => {
       };
     });
     setRacers(_racers);
+    refRacers.current = _racers;
   };
 
   const reset = () => {
