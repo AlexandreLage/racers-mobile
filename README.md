@@ -13,5 +13,12 @@ Then you can either open it on XCode (for iOS), Android Studio (for Android) or 
 
 
 
-https://github.com/AlexandreLage/racers-mobile/blob/main/docs/demo.mp4?raw=true
+
+
+
+https://user-images.githubusercontent.com/20136835/212716731-10bd9c39-0d6a-4dc5-8a79-fcff8caaca19.mov
+
+
+
+https://user-images.githubusercontent.com/20136835/212716739-9d90893d-f157-4a5d-bc14-5a97eb635eb8.mov
 
